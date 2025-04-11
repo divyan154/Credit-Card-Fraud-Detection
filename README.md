@@ -23,7 +23,7 @@ This project demonstrates a machine learning approach to detect fraudulent credi
 
 ## 📊 Results
 
-While accuracy is not always the best metric in imbalanced datasets, other metrics like precision, recall, and F1-score were also used to ensure robust evaluation.
+Accuracy score is calculated for test dataset and training dataset
 
 ## 📁 Project Structure
 
